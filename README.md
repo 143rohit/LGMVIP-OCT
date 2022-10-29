@@ -1,2 +1,1 @@
-# LGMVIP-OCT
-Let's Grow More VIP - October 2022 Internship program
+ https://143rohit.github.io/LGMVIP-OCT/ 
